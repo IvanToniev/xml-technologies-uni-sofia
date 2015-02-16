@@ -5,3 +5,4 @@ All of the transformations and schemas are here. A simple ruby parser is availab
 To use the parser the user must have a ruby version installed.
 Run ruby parser.rb and follow the wizard. He is very wise, listen to what he
 is asking of you.
+GitHub repo if files are missing: https://github.com/IvanToniev/xml-technologies-uni-sofia
