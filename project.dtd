@@ -1,0 +1,45 @@
+<!-- Note that the transformation only covers a common subset of XML Schema.
+     Unknown elements will be ignored. -->
+
+
+<!-- ELEMENT projects -->
+<!ELEMENT projects (
+
+<!-- ELEMENT project -->
+<!ELEMENT project (
+
+<!-- ELEMENT course -->
+<!ELEMENT course (
+
+<!-- ELEMENT course-name -->
+<!ELEMENT course-name ( #PCDATA ) > ) >,
+
+<!-- ELEMENT project-requirements -->
+<!ELEMENT project-requirements (
+
+<!-- ELEMENT project-requirement -->
+<!ELEMENT project-requirement ( #PCDATA ) > ) >,
+
+<!-- ELEMENT technologies -->
+<!ELEMENT technologies (
+
+<!-- ELEMENT technology -->
+<!ELEMENT technology (
+
+<!-- ELEMENT technology-name -->
+<!ELEMENT technology-name ( #PCDATA ) > ) > ) >,
+
+<!-- ELEMENT theme -->
+<!ELEMENT theme ( #PCDATA ) >,
+
+<!-- ELEMENT timeline -->
+<!ELEMENT timeline (
+
+<!-- ELEMENT start-date -->
+<!ELEMENT start-date ( #PCDATA ) >,
+
+<!-- ELEMENT end-date -->
+<!ELEMENT end-date ( #PCDATA ) > ) >,
+
+<!-- ELEMENT description -->
+<!ELEMENT description ( #PCDATA ) > ) > ) >

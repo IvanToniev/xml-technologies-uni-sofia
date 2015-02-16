@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="projects.xsl" type="text/xsl" ?>
+
+<projects  xmlns:projects="http://www.project-template.com/projects/projects">
+	<project xmlns:project="http://www.project-template.com/projects/project">
+        <course>
+    		<course-name>
+    			Фронт-енд Разработка
+            </course-name>
+    	</course>
+        <project-requirements>
+            <project-requirement>
+                Да се направи carousel на JavaScript
+            </project-requirement>
+        </project-requirements>
+        <technologies>
+            <technology>
+                <technology-name>
+                    HTML
+                </technology-name>
+                <technology-name>
+                    CSS
+                </technology-name>
+                <technology-name>
+                    JavaScript
+                </technology-name>
+            </technology>
+        </technologies>
+        <theme>Разработка на фронт-енд компонент</theme>
+        <timeline>
+            <start-date>
+                15.12.14
+            </start-date>
+            <end-date>
+                20.12.14
+            </end-date>
+        </timeline>
+        <description>
+            Някакво по-подробно описание на проект тук.
+        </description>
+    </project>
+	<project xmlns:project="http://www.project-template.com/projects/project">
+        <course>
+    		<course-name>
+    			Фронт-енд Разработка
+    		</course-name>
+    	</course>
+        <project-requirements>
+            <project-requirement>
+                Да се направи галерия на JavaScript
+            </project-requirement>
+        </project-requirements>
+        <technologies>
+            <technology>
+                <technology-name>
+                    HTML
+                </technology-name>
+                <technology-name>
+                    CSS
+                </technology-name>
+                <technology-name>
+                    JavaScript
+                </technology-name>
+            </technology>
+        </technologies>
+        <theme>Разработка на фронт-енд компонент</theme>
+        <timeline>
+            <start-date>
+                15.12.14
+            </start-date>
+            <end-date>
+                20.12.14
+            </end-date>
+        </timeline>
+        <description>
+            Някакво по-подробно описание на проект тук.
+        </description>
+    </project>
+	<project xmlns:project="http://www.project-template.com/projects/project">
+        <course>
+    		<course-name>
+    			Разработка на бекенд сървърна логика
+    		</course-name>
+    	</course>
+        <project-requirements>
+            <project-requirement>
+                Да се направи поток на данни подобен на този на Twitter
+            </project-requirement>
+        </project-requirements>
+        <technologies>
+            <technology>
+                <technology-name>
+                    Ruby
+                </technology-name>
+                <technology-name>
+                    Rails
+                </technology-name>
+                <technology-name>
+                    Sidekiq Gem
+                </technology-name>
+                <technology-name>
+                    Redis
+                </technology-name>
+            </technology>
+        </technologies>
+        <theme>Разработка на бекенд компонент</theme>
+        <timeline>
+            <start-date>
+                15.12.14
+            </start-date>
+            <end-date>
+                20.12.14
+            </end-date>
+        </timeline>
+        <description>
+            Да се направи асинхронно обработване на входни данни от потребители.
+            Данните да бъдат разделени по потоци.
+        </description>
+    </project>
+	<project xmlns:project="http://www.project-template.com/projects/project">
+        <course>
+    		<course-name>
+    			Бекенд разработка с Ruby
+    		</course-name>
+    	</course>
+        <project-requirements>
+            <project-requirement>
+                Да се направи форматер за снимки
+            </project-requirement>
+        </project-requirements>
+        <technologies>
+            <technology>
+                <technology-name>
+                    Ruby
+                </technology-name>
+                <technology-name>
+                    Библиотеки по избор
+                </technology-name>
+            </technology>
+        </technologies>
+        <theme>Разработка на бекенд компонент</theme>
+        <timeline>
+            <start-date>
+                15.12.14
+            </start-date>
+            <end-date>
+                20.12.14
+            </end-date>
+        </timeline>
+        <description>
+            Да се направи форматер на снимки.
+            Той трябва да може да създава 3 формата снимките (50х50, 100х100, 80х60)
+        </description>
+    </project>
+	<project xmlns:project="http://www.project-template.com/projects/project">
+        <course>
+    		<course-name>
+    			Бекенд Разработка
+    		</course-name>
+    	</course>
+        <project-requirements>
+            <project-requirement>
+                Да се направи сървър работещ със следните технологии
+            </project-requirement>
+        </project-requirements>
+        <technologies>
+            <technology>
+                <technology-name>
+                    Ruby (JRuby)
+                </technology-name>
+                <technology-name>
+                    Rails
+                </technology-name>
+                <technology-name>
+                    TorqueBox
+                </technology-name>
+            </technology>
+        </technologies>
+        <theme>Разработка на бекенд компонент</theme>
+        <timeline>
+            <start-date>
+                15.12.14
+            </start-date>
+            <end-date>
+                20.12.14
+            </end-date>
+        </timeline>
+        <description>
+            Целта на задачата е да се тества способността на JRuby да обработва много трафик.
+            Също така данните от този тест да се сравнят с такива от тест с MRI.
+        </description>
+    </project>
+	<project xmlns:project="http://www.project-template.com/projects/project">
+        <course>
+    		<course-name>
+    			Бекенд разработка
+    		</course-name>
+    	</course>
+        <project-requirements>
+            <project-requirement>
+                Да се направи система за менажиране на проекти
+            </project-requirement>
+        </project-requirements>
+        <technologies>
+            <technology>
+                <technology-name>
+                    Ruby
+                </technology-name>
+                <technology-name>
+                    Rails
+                </technology-name>
+                <technology-name>
+                    Други технологии по избор
+                </technology-name>
+            </technology>
+        </technologies>
+        <theme>Разработка на бекенд компонент</theme>
+        <timeline>
+            <start-date>
+                15.12.14
+            </start-date>
+            <end-date>
+                20.12.14
+            </end-date>
+        </timeline>
+        <description>
+            Да се направи малко система за менажиране на проекти.
+            Създаване, редактиране, топ проекти, гласуване на победители и други по желание.
+        </description>
+    </project>
+	<project xmlns:project="http://www.project-template.com/projects/project">
+        <course>
+    		<course-name>
+    			Бекенд Разработка
+    		</course-name>
+    	</course>
+        <project-requirements>
+            <project-requirement>
+                Да се направи сървърен компонент, който рендерира html на сървъра
+            </project-requirement>
+        </project-requirements>
+        <technologies>
+            <technology>
+                <technology-name>
+                    Ruby
+                </technology-name>
+                <technology-name>
+                    Rails
+                </technology-name>
+                <technology-name>
+                    Други технологии по избор
+                </technology-name>
+            </technology>
+        </technologies>
+        <theme>Разработка на бекенд компонент</theme>
+        <timeline>
+            <start-date>
+                15.12.14
+            </start-date>
+            <end-date>
+                20.12.14
+            </end-date>
+        </timeline>
+        <description>
+            Целта на проекта е студента да се запознае със server-side rendering и да разбере кога такъв е нужен и кога не.
+        </description>
+    </project>
+	<project xmlns:project="http://www.project-template.com/projects/project">
+        <course>
+        	<course-name>
+                Фронт-енд Разработка
+            </course-name>
+        </course>
+        <project-requirements>
+            <project-requirement>
+                Да се направи игра шах на JavaScript
+            </project-requirement>
+        </project-requirements>
+        <technologies>
+            <technology>
+                <technology-name>
+                    HTML
+                </technology-name>
+                <technology-name>
+                    CSS
+                </technology-name>
+                <technology-name>
+                    JavaScript
+                </technology-name>
+                <technology-name>
+                    WebSockets
+                </technology-name>
+            </technology>
+        </technologies>
+        <theme>Разработка на фронт-енд компонент</theme>
+        <timeline>
+            <start-date>
+                15.12.14
+            </start-date>
+            <end-date>
+                20.12.14
+            </end-date>
+        </timeline>
+        <description>
+            Да се направи шах. Той не трябва да има собствен бот, но трябва да може да се играе от 2ма човека и да работи чрез сокети.
+        </description>
+    </project>
+	<project xmlns:project="http://www.project-template.com/projects/project">
+        <course>
+    		<course-name>
+    			Бекенд Разработка
+    		</course-name>
+    	</course>
+        <project-requirements>
+            <project-requirement>
+                Да се направи web crawler на JavaScript
+            </project-requirement>
+        </project-requirements>
+        <technologies>
+            <technology>
+                <technology-name>
+                    JavaScript
+                </technology-name>
+            </technology>
+        </technologies>
+        <theme>Разработка на бекенд компонент</theme>
+        <timeline>
+            <start-date>
+                15.12.14
+            </start-date>
+            <end-date>
+                20.12.14
+            </end-date>
+        </timeline>
+        <description>
+            Да се направи crawler, на който се задават определени страници било то на блогове или форуми. Той ще следи за нов content в тези страници и ще попълва един фийд на потребителя.
+        </description>
+    </project>
+    <project xmlns:project="http://www.project-template.com/projects/project">
+        <course>
+        	<course-name>
+        		Фронт-енд Разработка
+            </course-name>
+        </course>
+        <project-requirements>
+            <project-requirement>
+                Да се направи система за спортни резултати на JavaScript
+            </project-requirement>
+        </project-requirements>
+        <technologies>
+            <technology>
+                <technology-name>
+                    HTML
+                </technology-name>
+                <technology-name>
+                    CSS
+                </technology-name>
+                <technology-name>
+                    JavaScript
+                </technology-name>
+            </technology>
+        </technologies>
+        <theme>Разработка на фронт-енд компонент</theme>
+        <timeline>
+            <start-date>
+                15.12.14
+            </start-date>
+            <end-date>
+                20.12.14
+            </end-date>
+        </timeline>
+        <description>
+            Да се направи фронт-енд компонент, който изпраща заявки към определени доставчици на информация свързана със спортни събития. Тази информация да се систематизира в подходящо HTML представяне. Всичко да се обработва веднага при излизането на нови данни.
+        </description>
+    </project>
+</projects>
